@@ -1,4 +1,14 @@
-### Hi there 👋
+
+🔭 I’m Taiwo, a Frontend Developer, trying to make the world a better place by building applications for the global space. 
+
+💬 Ask me about CSS, Vue.js, Web components
+
+🌱 I’m currently learning more on DevOps
+
+📫 How to reach me: taiwo.ibidapoobe@gmail.com
+
+😄 Pronouns: He/Him
+
 
 <!--
 **taiwoobe/taiwoobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
