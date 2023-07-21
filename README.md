@@ -1,9 +1,9 @@
 
 🔭 I’m Taiwo, a Software Engineer, trying to make the world a better place by building applications for the global space. 
 
-💬 Ask me about CSS, Vue.js, Web components
+💬 Ask me about CSS, Vue.js, Web components, Javascript and so much more.
 
-🌱 I’m currently learning more on DevOps
+🌱 I’m currently exploring the Web3 space
 
 📫 How to reach me: taiwo.ibidapoobe@gmail.com
 
