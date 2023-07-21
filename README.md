@@ -1,5 +1,5 @@
 
-🔭 I’m Taiwo, a Frontend Developer, trying to make the world a better place by building applications for the global space. 
+🔭 I’m Taiwo, a Software Engineer, trying to make the world a better place by building applications for the global space. 
 
 💬 Ask me about CSS, Vue.js, Web components
 
